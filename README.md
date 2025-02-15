@@ -9,7 +9,7 @@ spectator list is not implemented
 
 - install requirements with pip -m install requirements.txt
 - install pymeow
-- run loader.py with python loader.py
+- run sara.py with python sara.py
 
 https://ibb.co/39frTtFy
 
