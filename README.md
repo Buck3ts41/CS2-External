@@ -13,4 +13,3 @@ spectator list is not implemented
 
 https://ibb.co/39frTtFy
 
-you need to update some offsets probably, use a2x dumper. This will be the last version published
