@@ -13,3 +13,6 @@ spectator list is not implemented
 
 https://ibb.co/39frTtFy
 
+Unknowcheat: 
+https://www.unknowncheats.me/forum/counter-strike-2-a/683532-external-python-cheat.html
+
