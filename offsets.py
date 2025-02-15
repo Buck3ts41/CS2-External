@@ -1,5 +1,5 @@
 '''
-Game Update 27298992
+Game Update 14068
 '''
 
 m_iShotsFired = 9212
@@ -21,11 +21,11 @@ m_hObserverTarget = 68
 m_pGameSceneNode = 808
 
 
-dwEntityList = 27482560
-dwLocalPlayerController = 27816000
-dwViewMatrix = 27924416
+dwEntityList = 27482544
+dwLocalPlayerController = 27815984
+dwViewMatrix = 27924400
 dwLocalPlayerPawn = 25730864
-dwWeaponC4 = 27499568
+dwWeaponC4 = 27499552
 
 Npc = {
     "chicken": "Chicken",
